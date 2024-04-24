@@ -4,8 +4,6 @@ Here's a README template for your "Movies" repository:
 
 # Movies Website
 
-![Movies Website Banner](banner.jpg)
-
 A website for browsing and discovering movies. This project uses React for the front end and integrates with a movie API to fetch movie data.
 
 ## Features
@@ -14,10 +12,6 @@ A website for browsing and discovering movies. This project uses React for the f
 - **Movie Details**: Shows detailed information about a selected movie.
 - **Search Functionality**: Allows users to search for movies by title.
 - **Responsive Design**: Ensures the website looks good on all devices.
-
-## Demo
-
-Check out the live demo [here](https://your-demo-url.com).
 
 ## Getting Started
 
@@ -65,7 +59,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
 
 Project Link: [https://github.com/Jazzy90-star/Movies](https://github.com/Jazzy90-star/Movies)
 
